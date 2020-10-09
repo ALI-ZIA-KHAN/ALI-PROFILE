@@ -12,5 +12,5 @@
 - 😄 Pronouns: Call me I
 - ⚡ Fun fact: I am not always coding enjoys every bit of life.
 ![](https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN&style=flat-square&color=blueviolet)
-![Ali's github stats](https://github-readme-stats.vercel.app/api?username=ALI-ZIA-KHAN&show_icons=true&theme=shades-of-purple)
+![Ali's github stats](https://github-readme-stats.vercel.app/api?username=ALI-ZIA-KHAN&count_private=true&hide=prs&show_icons=true&theme=shades-of-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=shades-of-purple&langs_count=8)](https://github.com/ALI-ZIA-KHAN/github-readme-stats)
