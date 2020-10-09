@@ -10,7 +10,7 @@
 - 💬 Ask me about any query of yours,I will definitely help if I know that...
 - 📫 How to reach me: azk443.443@gmail.com or on  <a href=https://www.instagram.com/i_am_ali_zk/ class="button icon search">Instagram</a> :rainbow: 
 - 😄 Pronouns: Call me I
-- ⚡ Fun fact: I am not always coding enjoys every bit of life.
+- ⚡ Fun fact: I am not always coding enjoys every bit of life. This profile view count started from 9/10/2020 when I deployed this REAMME.md
 ![](https://komarev.com/ghpvc/?username=ALI-ZIA-KHAN&style=flat-square&color=blueviolet)
 ![Ali's github stats](https://github-readme-stats.vercel.app/api?username=ALI-ZIA-KHAN&count_private=true&hide=prs&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ALI-ZIA-KHAN&theme=highcontrast&langs_count=8)](https://github.com/ALI-ZIA-KHAN/github-readme-stats)
