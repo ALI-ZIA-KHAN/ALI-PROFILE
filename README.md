@@ -2,7 +2,7 @@
 ### I'm Ali. Student of BE SOFTWARE ENGINEERING :office: ✨
 
 <!--
-**ALI-ZIA-KHAN/ALI-ZIA-KHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ALI-ZIA-KHAN/ALI-ZIA-KHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🔭 I’m currently working on  Python and Javascript. 
 - 🌱 I’m currently learning npm and React. :fire:
