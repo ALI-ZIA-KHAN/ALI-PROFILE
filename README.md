@@ -4,8 +4,8 @@
 <!--
 **ALI-ZIA-KHAN/ALI-ZIA-KHAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on  Python and Javascript. 
-- 🌱 I’m currently learning npm and React. :fire:
+- 🔭 I’m currently working on  Python and React. 
+- 🌱 I’m currently learning Node and EJS. :fire:
 - 👯 I’m looking to collaborate on Python C# C++ projects...
 - 💬 Ask me about any query of yours,I will definitely help if I know that...
 - 📫 How to reach me: azk443.443@gmail.com or on  <a href=https://www.instagram.com/i_am_ali_zk/ class="button icon search">Instagram</a> :rainbow: 
